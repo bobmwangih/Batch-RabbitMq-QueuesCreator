@@ -29,4 +29,4 @@ It is very useful when you want to spin up a rabbitMq server in a different env 
 
 ## AND cheers!!
 
-# Note, i did not create the exchanges, and ofcourse i did not bind the queues to the exchange. but very minimal modification would be required to do that if you want to.
+### Note, i did not create the exchanges, and ofcourse i did not bind the queues to the exchange. but very minimal modification would be required to do that if you want to.
