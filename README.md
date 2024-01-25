@@ -19,7 +19,7 @@ It is very useful when you want to spin up a rabbitMq server in a different env 
 
 **1. Clone the application**
 
-`git clone https://github.com/bobmwangih/leave-management-system.git`
+`git clone [https://github.com/bobmwangih/Batch-RabbitMq-QueuesCreator.git]`
 
 **2. Create a text file to hold the queue names to be created, each queue should be on its own line 
 
